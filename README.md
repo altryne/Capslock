@@ -1,3 +1,6 @@
+This is a clone of https://github.com/Vonng/Capslock
+This clone has a set of settings that is a little different than the original repo
+
 # Capslock
 
 *Make CapsLock Great Again!*  
