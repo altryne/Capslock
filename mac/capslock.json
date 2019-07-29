@@ -1,10 +1,10 @@
 {
   "title": "Capslock Enhancement",
-  "author": "Vonng(fengruohang@outlook.com)",
-  "homepage": "https://github.com/Vonng/Capslock",
+  "author": "Altryne(alex@alexw.me)",
+  "homepage": "https://github.com/Altryne/Capslock",
   "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-  "manual": "https://github.com/Vonng/Capslock/tree/master/mac",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json",
+  "manual": "https://github.com/Altryne/Capslock/tree/master/mac",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Altryne/Capslock/master/mac/capslock.json",
   "rules": [
     {
       "description": "CapsLock to Hyper/Escape",
