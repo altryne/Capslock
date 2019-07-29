@@ -1,5 +1,7 @@
-This is a clone of https://github.com/Vonng/Capslock
-This clone has a set of settings that is a little different than the original repo
+This is my personal clone of https://github.com/Vonng/Capslock
+This clone has a set of settings that is a little different than the original repo.
+
+Image is not updated! 
 
 # Capslock
 
@@ -45,7 +47,7 @@ This clone has a set of settings that is a little different than the original re
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/altryne/Capslock/master/mac/capslock.json
 ```
 
 ```bash
